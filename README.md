@@ -1,6 +1,7 @@
 # Restart to UEFI
 	
-### UEFI_0x1001 is the newest version with new design logo.
+### UEFI_0x1001 
+	This is the newest version with new design logo.
 	
 ### UEFI.EXE 
 	Notice:  Only for PC with UEFI Firmware. 
@@ -27,6 +28,7 @@
 	This file is a demo file !!!
 	
 ### About logo. 
-	filename: uefi.ico
+	filename: uefi_ico_001.ico
 	为了规避版权问题，自己使用在线PS软件做了一个，有点丑，先顶着，后面有空再重新设计一个。
-  
+  	fileneme: uefi_ico_002.ico 
+	This is the new logo that designed by myself.
