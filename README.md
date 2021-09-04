@@ -1,6 +1,6 @@
 # Restart to UEFI
 	
-### UEFI_0x1001 
+### UEFI_0x1001.exe 
 	This is the newest version with new design logo.
 	
 ### UEFI.EXE 
