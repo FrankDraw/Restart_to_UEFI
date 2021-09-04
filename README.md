@@ -1,7 +1,8 @@
 # MS Command
 
 ### UEFI.EXE 
-	Note:  Only for PC with UEFI Firmware.
+	Note:  Only for PC with UEFI Firmware. 
+	If you need it, get this file is enough.
 
 ### Function: 
 	Restart to UEFI Settings Page.
@@ -18,6 +19,9 @@
 	
 	经过寻找资料，发现MS_OS中的shutdown命令可以实现此功能。
 
+### About UEFI.bat
+	This file is a demo file !!!
+	
 ### About logo. 
 	filename: uefi.ico
 	为了规避版权问题，自己使用在线PS软件做了一个，有点丑，先顶着，后面有空再重新设计一个。
