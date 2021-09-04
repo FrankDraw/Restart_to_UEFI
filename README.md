@@ -1,7 +1,8 @@
 # Restart to UEFI
 
 ### UEFI.EXE 
-	Note:  Only for PC with UEFI Firmware. 
+	Notice:  Only for PC with UEFI Firmware. 
+	
 	If you need it, get this file is enough.
 
 ### Function: 
