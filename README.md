@@ -10,8 +10,8 @@
 
 ### Function: 
 	Restart to UEFI Settings Page.
-	OS环境下，双击运行，自动重启计算机，然后进入UEFI Firmware Setting界面，免去开机按F1的操作。![图片](https://user-images.githubusercontent.com/79576936/132095631-4182a0d0-a133-46d5-b190-51d916c49382.png)
-
+	OS环境下，双击运行，自动重启计算机，然后进入UEFI Firmware Setting界面，免去开机按F1的操作。
+	
 ### Usage:
 	Double click "UEFI.exe" to run. 
  	PC will restart immediately, and then go to UEFI Settings page at next Boot phase automaticaly.
@@ -33,5 +33,5 @@
 	This is the first edition.
 	
   	fileneme: uefi_ico_002.ico 
-	This is the new logo that designed by myself.
+	This is the new logo that designed by myself.![uefi_ico_002](https://user-images.githubusercontent.com/79576936/132095746-50ebf31b-ed78-4a7b-8c16-2c56fbe0a233.png)
 	
