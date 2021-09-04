@@ -1,5 +1,7 @@
 # Restart to UEFI
-
+	
+### UEFI_0x1001 is the newest version with new design logo.
+	
 ### UEFI.EXE 
 	Notice:  Only for PC with UEFI Firmware. 
 	
