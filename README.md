@@ -34,5 +34,4 @@
 	
   	fileneme: uefi_ico_002.ico 
 	This is the new logo that designed by myself.
-	![uefi_ico_002](https://user-images.githubusercontent.com/79576936/132095746-50ebf31b-ed78-4a7b-8c16-2c56fbe0a233.png)
 	
