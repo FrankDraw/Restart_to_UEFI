@@ -1,12 +1,12 @@
 # Restart to UEFI
 	
 ### UEFI_0x1001.exe 
-	This is the newest version with new design logo.
+	This is the newest version with new designed logo.
 	
-### UEFI.EXE 
-	Notice:  Only for PC with UEFI Firmware. 
+### UEFI_0x0000.exe 
+	This is the older version with old logo.
 	
-	If you need it, get this file is enough.
+	Notice:  Only for PC with UEFI Firmware.  If you need it, get this file is enough.
 
 ### Function: 
 	Restart to UEFI Settings Page.
