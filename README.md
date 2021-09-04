@@ -10,6 +10,7 @@
 
 ### Function: 
 	Restart to UEFI Settings Page.
+	OS环境下，双击运行，自动重启计算机，然后进入UEFI Firmware Setting界面，免去开机按F1的操作。![图片](https://user-images.githubusercontent.com/79576936/132095631-4182a0d0-a133-46d5-b190-51d916c49382.png)
 
 ### Usage:
 	Double click "UEFI.exe" to run. 
