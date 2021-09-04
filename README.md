@@ -1,4 +1,4 @@
-# MS Command
+# Restart to UEFI
 
 ### UEFI.EXE 
 	Note:  Only for PC with UEFI Firmware. 
