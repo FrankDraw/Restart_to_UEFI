@@ -8,7 +8,7 @@
 	Restart to UEFI Settings Page.
 
 ### Usage:
-	Double click to run. 
+	Double click "UEFI.exe" to run. 
  	PC will restart immediately, and then go to UEFI Settings page at next Boot phase automaticaly.
 
 ### About UEFI.exe . 
