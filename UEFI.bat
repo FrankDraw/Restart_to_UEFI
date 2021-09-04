@@ -8,7 +8,6 @@ ECHO    *************************************
 ECHO    ***  Please Run as Administrator. ***
 ECHO    ***     Current Code: UTF-8       ***
 ECHO    *************************************
-REM Code: UTF-8   Code:UTF-8   Code:UTF-8
 ECHO.
 ECHO.
 
