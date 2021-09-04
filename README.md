@@ -29,6 +29,7 @@
 	
 ### About logo. 
 	filename: uefi_ico_001.ico
-	为了规避版权问题，自己使用在线PS软件做了一个，有点丑，先顶着，后面有空再重新设计一个。
+	This is the first edition.
+	
   	fileneme: uefi_ico_002.ico 
 	This is the new logo that designed by myself.
