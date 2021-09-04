@@ -25,7 +25,7 @@
 	经过寻找资料，发现MS_OS中的shutdown命令可以实现此功能。
 
 ### About UEFI.bat
-	This file is a demo file !!!
+	This file is source code for demo !!!
 	
 ### About logo. 
 	filename: uefi_ico_001.ico
