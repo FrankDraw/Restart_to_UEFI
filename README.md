@@ -30,6 +30,7 @@
 	(低端CPU + 小容量内存 + 2.5inch HDD, 错过一次POST界面，有时候会几分钟。)
 	
 	经过寻找资料，发现MS_OS中的shutdown命令可以实现此功能。
+	reference page: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
 
 ### About UEFI.bat
 	This file is source code for demo !!!
