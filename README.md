@@ -2,11 +2,10 @@
 	
 ### UEFI_0x1001.exe 
 	This is the newest version with new designed logo.
+	Notice:  Only for x86 PC with UEFI Firmware.  If you need it, get this file is enough.
 	
 ### UEFI_0x0000.exe 
 	This is the older version with old logo.
-	
-	Notice:  Only for PC with UEFI Firmware.  If you need it, get this file is enough.
 
 ### Function: 
 	Restart to UEFI Settings Page.
