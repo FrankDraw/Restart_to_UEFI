@@ -40,5 +40,5 @@
 	This is the first edition.
 	
   	fileneme: uefi_ico_002.ico 
-	This is the new logo that designed by myself.
+	This is the second edition designed by myself.
 	
